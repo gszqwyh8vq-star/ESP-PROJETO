@@ -1,0 +1,9 @@
+Package: SATOO
+Name: SATOO
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Tele:@satooST
+Maintainer: SATOO
+Author: SATOO
+Section: Games Free Fire
